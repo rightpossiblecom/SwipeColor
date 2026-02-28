@@ -1,0 +1,24 @@
+APP: SwipeColor
+PACKAGE: com.swipecolor.app
+
+--- SHORT DESCRIPTION (max 80 characters) ---
+Connect the dots in one stroke. Minimal puzzle game with levels and stars.
+
+--- FULL DESCRIPTION (max 4000 characters, plain text) ---
+SwipeColor is a minimal puzzle game where you connect numbered dots in a single continuous stroke. Your finger must not leave the screen until every dot is linked in order.
+
+HOW TO PLAY
+Start on the dot marked 1. Keep your finger on the screen and move to the next number. Connect all dots in order without lifting your finger to complete the level.
+
+FEATURES
+- Simple one-finger gameplay
+- Multiple levels with increasing difficulty
+- Progress saved automatically
+- Unlock levels by completing the previous one
+- Clean, modern design with light and dark themes
+- No ads, no account required to play
+
+Perfect for short sessions or a quick brain break. Master each level and see how far you can go.
+
+Contact: support@swipecolor.app
+Privacy policy: https://swipecolor.app/privacy-policy
