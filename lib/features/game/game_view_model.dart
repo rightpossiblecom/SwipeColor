@@ -100,7 +100,7 @@ class GameViewModel extends ChangeNotifier {
   }
 
   void _vibrate({int intensity = 50}) async {
-    if (await Vibration.hasVibrator() ?? false) {
+    if (await Vibration.hasVibrator()) {
       Vibration.vibrate(duration: intensity);
     }
   }
